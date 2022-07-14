@@ -1,6 +1,6 @@
 .DS_Store
 node_modules
-lib
+examples
 dist
 yarn-error.log
 .vscode
